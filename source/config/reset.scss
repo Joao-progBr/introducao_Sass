@@ -1,0 +1,13 @@
+@use 'variaveis';
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: variaveis.$fontePrincipal;
+}
+
+// .roboto-thin {
+//     font-family: "Roboto", sans-serif;
+//     font-weight: 100;
+//     font-style: normal;
+//   }
